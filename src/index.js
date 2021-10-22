@@ -1,3 +1,5 @@
+import './styles/index.scss'
+
 const curlySystem = {
   foo: 1,
   bar: 0
